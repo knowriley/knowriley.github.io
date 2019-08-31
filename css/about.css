@@ -5,6 +5,29 @@ body {
   background-size: cover;
 }
 
+a.back-button {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: left;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+a.back-button:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a.back-button:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a.back-button:active {
+  color: white;
+  text-decoration: none;
+}
+
 .box {
   width: 450px;
   height: 100vh;
